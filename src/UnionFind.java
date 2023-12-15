@@ -35,7 +35,7 @@ class UnionFind {
             parent[parentJ] = parentI;
             rank[parentJ]++;
         }
-        return true; // change later
+        return true;
     }
 
     /**
